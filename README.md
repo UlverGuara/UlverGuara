@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **UlverGuara/UlverGuara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Rafael Momberg de Andrade
+[![Linkedin Badge](https://img.shields.io/bagde/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-momberg-de-andrade-91a953162/)](https://www.linkedin.com/in/rafael-momberg-de-andrade-91a953162/)
+[![Youtube Badge](https://img.shields.io/bagde/-Youtube-cl4438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/user/https://www.youtube.com/channel/UCsepl7JfcsCO539HIJjXiRA/)](https://www.youtube.com/user/https://www.youtube.com/channel/UCsepl7JfcsCO539HIJjXiRA/)

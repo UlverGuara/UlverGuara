@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 # Rafael Momberg de Andrade
 [![Linkedin Badge](https://img.shields.io/bagde/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-momberg-de-andrade-91a953162/)](https://www.linkedin.com/in/rafael-momberg-de-andrade-91a953162/)
-[![Youtube Badge](https://img.shields.io/bagde/-Youtube-cl4438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/user/RafaelMomberg/featured/)](https://www.youtube.com/RafaelMomberg/featured/)
+[![Youtube](https://img.shields.io/bagde/-Youtube-cl4438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/user/RafaelMomberg/featured/)](https://www.youtube.com/RafaelMomberg/featured/)
